@@ -13,4 +13,3 @@ Buttercup Bakery is a cozy baking game where local woodland critters can order v
 5. Set the oven temperature and timer, then slide the tray inside. You can take it out early.
 6. Select a piping bag and drag across the bake to frost it. Pick a topping and click where you want to put it. Serve the order to see your customer's rating and feedback!
 
-For keyboard play, use Tab to focus controls. Use the arrow keys to mix or select a well, hold Space to pour from the focused bowl, and press Enter on the bake to use the selected decorating tool.
