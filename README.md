@@ -3,7 +3,7 @@ Homework 6
 
 Buttercup Bakery is a cozy baking game where local woodland critters can order various baked goods. Follow the recipe from the first scoop of flour to the final swirl of frosting and try to earn five stars! 
 
-[Play Buttercup Bakery in your browser](https://buttercup-bakery-lily.corkykangaroo.chatgpt.site). No account or installation is required! To play a downloaded copy, extract the project and open `dist/index.html` in a modern browser. Keep the files and folders together.
+[Play Buttercup Bakery in your browser](https://buttercup-bakery-lily.corkykangaroo.chatgpt.site). No account or installation is required!
 
 ## How to play
 1. Pick a recipe and read the customer's order in the book.
